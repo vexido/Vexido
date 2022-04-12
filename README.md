@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **programming**
 - 🌱 I’m currently learning **coding**
 - 👨‍💻 All of my projects are available at [Repositories Menu](https://github.com/Vexido)
-- 📝 I regularly write articles on **planning**
+- 📝 I regularly write articles on **<coming soon>**
 - 💬 Ask me about **everything**
 - 📫 How to reach me kyuzatodev2468@protonmail.com
 - 📄 Know about my experiences [VexidoDiary](https://t.me/VexidoDiary)
