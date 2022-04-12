@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **programming**
 - 🌱 I’m currently learning **coding**
-- 👨‍💻 All of my projects are available at [Repositoes Menu](https://github.com/Vexido)
+- 👨‍💻 All of my projects are available at [Repositories Menu](https://github.com/Vexido)
 - 📝 I regularly write articles on **planning**
 - 💬 Ask me about **everything**
 - 📫 How to reach me kyuzatodev2468@protonmail.com
