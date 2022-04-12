@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixedo" alt="vixedo" /></a> </p>
 
-- 🔭 I’m currently working on **YaeMiko-Robot (Planning)**
+- 🔭 I’m currently working on **none**
 
 - 🌱 I’m currently learning **Anything about the program.**
 
