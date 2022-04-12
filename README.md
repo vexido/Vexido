@@ -1,37 +1,90 @@
 <h1 align="center">Yo 👋, I'm Vixedo</h1>
-<h3 align="center">Someone who is passionate about learning programming from Indonesian</h3>
+<h3 align="center">A people is passionate about learning programming from Indonesian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vixedo&label=Profile%20views&color=0e75b6&style=flat" alt="vixedo" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixedo" alt="vixedo" /></a> </p>
+![followers](https://img.shields.io/github/followers/vixedo?style=social)
+![stars](https://img.shields.io/github/stars/vixedo?style=social)
 
-- 🔭 I’m currently working on **none**
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{vixedo}/count.svg" alt="vixedo :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://telegra.ph/file/8611a373b5148d5632946.mp4" alt="vixedo" />
 
-- 🌱 I’m currently learning **about the coding**
-
-- 👯 I’m looking to collaborate on **none**
-
-- 🤝 I’m looking for help with **emm**
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/Vixedo?tab=repositories)
-
-- 📝 I regularly write articles on [none]()
-
+- 🔭 I’m currently working on **programming language**
+- 🌱 I’m currently learning **coding**
+- 👨‍💻 All of my projects are available at [my repository](https://github.com/vixedo)
+- 📝 I regularly write articles on **planning**
 - 💬 Ask me about **everything**
+- 📫 How to reach me kyuzatodev2468@protonmail.com
+- 📄 Know about my experiences [VixedoDiary](https://t.me/VixedoDiary)
+- ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
-- 📫 How to reach me **kyuzatodev2468@protonmail.com**
+### 🛠 Tech Stack
 
-- 📄 Know about my experiences [DragonBallIndonesia](t.me/DragonBallIndonesia)
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Scala](http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
+![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
-- ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best.**
+![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
+![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
+![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
+![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
+![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
+![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
+![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
+![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixedo&show_icons=true&locale=en&layout=compact" alt="vixedo" /></p>
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
+![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
+![RocketMq](http://img.shields.io/badge/-RocketMq-white?style=flat-square&logo=apacherocketmq)
+![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
+![RabbitMq](http://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
+![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
+![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
+![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vixedo&show_icons=true&locale=en" alt="vixedo" /></p>
+![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
+![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
+![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vixedo&" alt="vixedo" /></p>
+![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 
+### 💬 Contact Me
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kyuzatodev2468@protonmail.com)
+
+### 🚦 Stats
+
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
+</div>
+
+-----
+Credits by [Vixedo](https://github.com/Vixedo)
