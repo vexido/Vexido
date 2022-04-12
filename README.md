@@ -4,10 +4,13 @@
 ---
 <img src="https://telegra.ph/file/8e176e926100125a4340a.jpg" alt="Vexido">
 
-![followers](https://img.shields.io/github/followers/Vexido?style=social)
-![stars](https://img.shields.io/github/stars/Vexido?style=social)
+<div>
+  <span><img align="center" src="https://img.shields.io/github/followers/Vexido?style=social" /></span>
+  <span><img align="center" src="https://img.shields.io/github/stars/Vexido?style=social" /></span>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vexido" alt="Vexido" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vexido" alt="Vexido" /></a> </p>
+
 
 <h3 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
