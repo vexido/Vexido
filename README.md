@@ -1,4 +1,4 @@
-<h1 align="center">Yo everyone, I'm Vexido</h1>
+<h1 align="center">Yow Everyone, I'm Vexido</h1>
 <h3 align="center">A people is passionate about learning programming from Indonesian</h3>
 
 ---
@@ -7,11 +7,14 @@
 ![followers](https://img.shields.io/github/followers/Vexido?style=social)
 ![stars](https://img.shields.io/github/stars/Vexido?style=social)
 
-<h4 align="center">Visitor's Count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vexido" alt="Vexido" /></a> </p>
 
-### 👨‍💻 Info
+<h4 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vexido&label=Profile%20views&color=0e75b6&style=flat" alt="vexido" /> </p>
+</br>
+
+### 👨‍💻 About Me
 - 🔭 I’m currently working on **programming language**
 - 🌱 I’m currently learning **coding**
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/Vexido)
@@ -83,9 +86,11 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Vexido&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexido&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
+
+![Metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 -----
 Credits by [Vexido](https://github.com/Vexido)
