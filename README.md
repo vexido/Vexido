@@ -14,9 +14,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vexido&label=Profile%20views&color=0e75b6&style=flat" alt="vexido" /> </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **programming language**
+- 🔭 I’m currently working on **programming**
 - 🌱 I’m currently learning **coding**
-- 👨‍💻 All of my projects are available at [my repository](https://github.com/Vexido)
+- 👨‍💻 All of my projects are available at [repository](https://github.com/Vexido)
 - 📝 I regularly write articles on **planning**
 - 💬 Ask me about **everything**
 - 📫 How to reach me kyuzatodev2468@protonmail.com
