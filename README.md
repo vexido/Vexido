@@ -85,7 +85,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vexido)
 
 
-### 🚦 Stats
+### 🚦 GitHub Stats
 
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Vexido&theme=highcontrast&show_icons=true" /></span>
