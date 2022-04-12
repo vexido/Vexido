@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on **none**
 
-- 🌱 I’m currently learning **Anything about the program.**
+- 🌱 I’m currently learning **anything about the coding**
 
 - 👯 I’m looking to collaborate on **none**
 
 - 🤝 I’m looking for help with **emm**
 
-- 👨‍💻 All of my projects are available at [none](none)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Vixedo?tab=repositories)
 
-- 📝 I regularly write articles on [none](none)
+- 📝 I regularly write articles on [none]()
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **kyuzatodev2468@protonmail.com**
 
-- 📄 Know about my experiences [t.me/DragonBallIndonesia](t.me/DragonBallIndonesia)
+- 📄 Know about my experiences [DragonBallIndonesia](t.me/DragonBallIndonesia)
 
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best.**
 
