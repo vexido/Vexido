@@ -12,7 +12,6 @@
 <h4 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vexido&label=Profile%20views&color=0e75b6&style=flat" alt="vexido" /> </p>
-</br>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **programming language**
@@ -82,6 +81,9 @@
 ### 💬 Contact Me
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kyuzatodev2468@protonmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vexido)
+
 
 ### 🚦 Stats
 
