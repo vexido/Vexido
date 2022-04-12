@@ -1,4 +1,4 @@
-<h1 align="center">Yooo Everyone, I'm Vexido</h1>
+<h1 align="center">Yoww Everyone, I'm Vexido</h1>
 <h3 align="center">A people is passionate about learning programming from Indonesian</h3>
 
 ---
