@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vexido" alt="Vexido" /></a> </p>
 
-<h4 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h4>
+<h3 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vexido&label=Profile%20views&color=0e75b6&style=flat" alt="vexido" /> </p>
 
