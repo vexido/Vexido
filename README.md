@@ -1,23 +1,24 @@
-<h1 align="center">Yo 👋, I'm Vixedo</h1>
+<h1 align="center">Yo everyone, I'm Vexido</h1>
 <h3 align="center">A people is passionate about learning programming from Indonesian</h3>
 
 ---
+<img src="https://telegra.ph/file/8e176e926100125a4340a.jpg" alt="Vexido">
 
-![followers](https://img.shields.io/github/followers/vixedo?style=social)
-![stars](https://img.shields.io/github/stars/vixedo?style=social)
+![followers](https://img.shields.io/github/followers/Vexido?style=social)
+![stars](https://img.shields.io/github/stars/Vexido?style=social)
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{vixedo}/count.svg" alt="vixedo :: Visitor's Count" /></p>
+<h4 align="center">Visitor's Count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://telegra.ph/file/8611a373b5148d5632946.mp4" alt="vixedo" />
 
+### 👨‍💻 Info
 - 🔭 I’m currently working on **programming language**
 - 🌱 I’m currently learning **coding**
-- 👨‍💻 All of my projects are available at [my repository](https://github.com/vixedo)
+- 👨‍💻 All of my projects are available at [my repository](https://github.com/Vexido)
 - 📝 I regularly write articles on **planning**
 - 💬 Ask me about **everything**
 - 📫 How to reach me kyuzatodev2468@protonmail.com
-- 📄 Know about my experiences [VixedoDiary](https://t.me/VixedoDiary)
+- 📄 Know about my experiences [VexidoDiary](https://t.me/VexidoDiary)
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
 ### 🛠 Tech Stack
@@ -87,4 +88,4 @@
 </div>
 
 -----
-Credits by [Vixedo](https://github.com/Vixedo)
+Credits by [Vexido](https://github.com/Vexido)
