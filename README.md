@@ -95,10 +95,3 @@
 </div>
 
 ![Metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
------
-<h3 align="left">🚨 Credits By</h3>
-
-[Vexido](https://github.com/Vexido)
-
-[yuebaix](https://github.com/yuebaix)
