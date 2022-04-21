@@ -86,6 +86,4 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexido&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 
-Competitive Programming
-
 ![Metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
