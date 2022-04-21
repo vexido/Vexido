@@ -4,25 +4,17 @@
 ---
 <img src="https://telegra.ph/file/8e176e926100125a4340a.jpg" alt="Vexido">
 
-<div>
-  <span><img align="center" src="https://img.shields.io/github/followers/Vexido?style=social" /></span>
-  <span><img align="center" src="https://img.shields.io/github/stars/Vexido?style=social" /></span>
-</div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vexido" alt="Vexido" /></a> </p>
-
-
 <h3 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Vexido}/count.svg" alt="Vexido :: Visitor's Count" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vexido&label=Profile%20views&color=0e75b6&style=flat" alt="vexido" /> </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **programming**
-- 🌱 I’m currently learning **coding**
+- 🔭 I’m currently working on **Competitive Programming**
+- 🌱 I’m currently learning **Program Language**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Vexido)
 - 📝 I regularly write articles on **<coming soon>**
-- 💬 Ask me about **everything**
-- 📫 How to reach me [KyuzatoDev](kyuzatodev2468@protonmail.com)
+- 💬 Ask me about everything, I'm happy to answer it
+- 📫 How to reach me [KyuzatoDev's Mail](kyuzatodev2468@protonmail.com)
 - 📄 Know about my experiences [@Im_Vexido](https://t.me/Im_Vexido)
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
@@ -93,5 +85,7 @@
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Vexido&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexido&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
+
+Competitive Programming
 
 ![Metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
