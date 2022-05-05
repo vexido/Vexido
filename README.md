@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on **Competitive Programming**
 - 🌱 I’m currently learning **Program Language**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Vexido)
-- 📝 I regularly write articles on **<coming soon>**
 - 💬 Ask me about everything, I'm happy to answer it
 - 📫 How to reach me [Vexido's Mail](kyuzatodev2468@protonmail.com)
 - 📄 Know about my experiences [@Im_Vexido](https://t.me/Im_Vexido)
