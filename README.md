@@ -85,7 +85,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vexido&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 -----
 Credits: [Vexido](https://github.com/vexido)
