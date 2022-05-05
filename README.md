@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Program Language**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Vexido)
 - 💬 Ask me about everything, I'm happy to answer it
-- 📫 How to reach me [Vexido's Mail](kyuzatodev2468@protonmail.com)
+- 📫 How to reach me kyuzatodev2468@protonmail.com
 - 📄 Know about my experiences [@Im_Vexido](https://t.me/Im_Vexido)
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
