@@ -1,7 +1,7 @@
 <h1 align="center">Yow!! I'm Vexido</h1>
 <h3 align="center">A people is passionate about learning programming from Indonesian</h3>
 
----
+-----
 <img src="https://telegra.ph/file/8e176e926100125a4340a.jpg" alt="Vexido">
 
 <h3 align="center">👁‍🗨 Visitor's Info 👁‍🗨</h3>
@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Vexido)
 - 📝 I regularly write articles on **<coming soon>**
 - 💬 Ask me about everything, I'm happy to answer it
-- 📫 How to reach me [KyuzatoDev's Mail](kyuzatodev2468@protonmail.com)
+- 📫 How to reach me [Vexido's Mail](kyuzatodev2468@protonmail.com)
 - 📄 Know about my experiences [@Im_Vexido](https://t.me/Im_Vexido)
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
@@ -49,6 +49,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
@@ -78,12 +79,16 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kyuzatodev2468@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vexido)
 
-
 ### 🚦 GitHub Stats
 
-<div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Vexido&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vexido&theme=highcontrast&layout=compact&langs_count=10" /></span>
-</div>
+<img src='https://github-readme-stats.vercel.app/api?username=vexido&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vexido&theme=tokyonight&hide_langs_below=4' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vexido&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](https://metrics.lecoq.io/Vexido?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+-----
+Credits: [Vexido](https://github.com/vexido)
+  
+Last Edited on: 05/05/2022
