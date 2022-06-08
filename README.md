@@ -14,7 +14,6 @@
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Vexido)
 - 💬 Ask me about **games, anime, coding, etc**
 - 📫 How to reach me kyuzatodev2468@protonmail.com
-- 📄 Know about my experiences [@Im_Vexido](https://t.me/Im_Vexido)
 - ⚡ Fun fact **I'm just an ordinary person who wants to try to be the best**
 
 ### 🛠 Tech Stack
@@ -90,4 +89,4 @@
 -----
 Credits: [Vexido](https://github.com/vexido)
   
-Last Edited on: 17/05/2022
+Last Edited on: 08/06/2022
